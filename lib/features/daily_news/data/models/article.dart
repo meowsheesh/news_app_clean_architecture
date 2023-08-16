@@ -1,6 +1,5 @@
-import 'package:news_app_clean_architecture/features/daily_news/domain/entities/article.dart';
-
 import '../../../../core/constants/constants.dart';
+import '../../domain/entities/article.dart';
 
 class ArticleModel extends ArticleEntity {
   const ArticleModel({
